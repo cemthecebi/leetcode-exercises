@@ -1,6 +1,6 @@
 package com.company;
 
-//1281. Subtract the Product and Sum of Digits of an Integer
+//1281. Subtract the Product and Sum of Digits of an Integer [Easy]
 public class SubtractTheProductAndSumOfDigitsOfAnInteger {
 
     public static void main(String[] args) throws Exception {

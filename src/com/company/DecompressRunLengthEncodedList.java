@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 
-//1313. Decompress Run-Length Encoded List
+//1313. Decompress Run-Length Encoded List [Easy]
 public class DecompressRunLengthEncodedList {
 
     public static void main(String[] args) throws Exception {

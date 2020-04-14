@@ -1,6 +1,6 @@
 package com.company;
 
-//7. Reverse Integer
+//7. Reverse Integer [Easy]
 public class ReverseInteger {
 
     public static void main(String[] args) throws Exception {
