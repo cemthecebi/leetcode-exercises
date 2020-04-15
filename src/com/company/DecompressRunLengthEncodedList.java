@@ -1,13 +1,14 @@
 package com.company;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 //1313. Decompress Run-Length Encoded List [Easy]
 public class DecompressRunLengthEncodedList {
 
     public static void main(String[] args) throws Exception {
         int[] nums = {1,2,3,4};
-        System.out.println(decompressRLEList(nums));
+        System.out.println(Arrays.toString(decompressRLEList(nums)));
     }
     public static int[] decompressRLEList(int[] nums) {
         ArrayList<Integer> newList = new ArrayList<>();
