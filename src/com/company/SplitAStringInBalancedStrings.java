@@ -1,5 +1,6 @@
 package com.company;
 
+//1221. Split a String in Balanced Strings
 public class SplitAStringInBalancedStrings {
 
     public static void main(String[] args) throws Exception {
@@ -8,16 +9,16 @@ public class SplitAStringInBalancedStrings {
 
     public static int balancedStringSplit(String s) {
         char[] ch = s.toCharArray();
-        int RCount = 0;
-        int LCount = 0;
+        int rCount = 0;
+        int lCount = 0;
         int totalEqualCount = 0;
         for (int i = 0; i < ch.length; i++) {
             if (s.charAt(i) == 'R') {
-                RCount++;
+                rCount++;
             } else {
-                LCount++;
+                lCount++;
             }
-            if (RCount == LCount) {
+            if (rCount == lCount) {
                 totalEqualCount++;
             }
         }
