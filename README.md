@@ -1,6 +1,6 @@
 # daily-leetcode-exercises
 
-#EASY
+# EASY PROBLEM SOLUTIONS
 
 [7. Reverse Integer](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReverseInteger.java)
 
