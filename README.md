@@ -4,6 +4,8 @@
 
 [7. Reverse Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReverseInteger.java)[★LeetCode★](https://leetcode.com/problems/reverse-integer/)
 
+[938. Range Sum of BST - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RangeSumOfBST.java)[★LeetCode★](https://leetcode.com/problems/range-sum-of-bst/)
+
 [1221. Split a String in Balanced Strings - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SplitAStringInBalancedStrings.java)
 [★LeetCode★](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 
