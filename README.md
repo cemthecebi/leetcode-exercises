@@ -12,6 +12,9 @@
 [1281. Subtract the Product and Sum of Digits of an Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SubtractTheProductAndSumOfDigitsOfAnInteger.java)
 [★LeetCode★](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
+[1290. Convert Binary Number in a Linked List to Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ConvertBinaryNumberInALinkedListToInteger.java)
+[★LeetCode★](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+
 [1295. Find Numbers with Even Number of Digits - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/FindNumbersWithEvenNumberOfDigits.java)
 [★LeetCode★](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 

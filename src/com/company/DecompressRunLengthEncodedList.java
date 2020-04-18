@@ -12,11 +12,14 @@ public class DecompressRunLengthEncodedList {
     }
     public static int[] decompressRLEList(int[] nums) {
         ArrayList<Integer> newList = new ArrayList<>();
-        for (int i = 0; i < nums.length; i += 2) {
-            for (int y = 0; i < nums[i]; i++) {
-                newList.add(nums[i++]);
+        for (int i = 0; i < nums.length; i+=2) {
+            int freq = nums[i];
+            int value = nums[i+1];
+            while(freq>0){
+                newList.add(value);
+                freq--;
             }
         }
-         return newList.stream().mapToInt(i -> i).toArray();
+        return newList.stream().mapToInt(i -> i).toArray();
     }
 }
