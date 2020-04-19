@@ -9,6 +9,9 @@
 [1221. Split a String in Balanced Strings - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SplitAStringInBalancedStrings.java)
 [★LeetCode★](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 
+[1266. Minimum Time Visiting All Points - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/MinimumTimeVisitingAllPoints.java)
+[★LeetCode★](https://leetcode.com/problems/minimum-time-visiting-all-points/)
+
 [1281. Subtract the Product and Sum of Digits of an Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SubtractTheProductAndSumOfDigitsOfAnInteger.java)
 [★LeetCode★](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
