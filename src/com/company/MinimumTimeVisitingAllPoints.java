@@ -5,7 +5,6 @@ public class MinimumTimeVisitingAllPoints {
 
     public static void main(String[] args) throws Exception {
         int[][] points = {{1, 1}, {3, 4}, {-1, 0}};
-
         System.out.println(minTimeToVisitAllPoints(points));
     }
 
