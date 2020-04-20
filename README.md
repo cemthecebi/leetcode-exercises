@@ -27,8 +27,11 @@
 [1313. Decompress Run-Length Encoded List - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/DecompressRunLengthEncodedList.java)
 [★LeetCode★](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 
+[1323. Maximum 69 Number - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/Maximum69Number.java)
+[★LeetCode★](https://leetcode.com/problems/decompress-run-length-encoded-list/)
+
 [1342. Number of Steps to Reduce a Number to Zero - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/NumberOfStepsToReduceANumberToZero.java)
-[★LeetCode★](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+[★LeetCode★](https://leetcode.com/problems/maximum-69-number/)
 
 [1365. How Many Numbers Are Smaller Than the Current Number - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 [★LeetCode★](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
