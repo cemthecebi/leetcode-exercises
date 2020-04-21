@@ -2,12 +2,17 @@
 
 ### PROBLEM SOLUTIONS
 
-[7. Reverse Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReverseInteger.java)[★LeetCode★](https://leetcode.com/problems/reverse-integer/)
+[7. Reverse Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReverseInteger.java)
+[★LeetCode★](https://leetcode.com/problems/reverse-integer/)
 
-[938. Range Sum of BST - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RangeSumOfBST.java)[★LeetCode★](https://leetcode.com/problems/range-sum-of-bst/)
+[938. Range Sum of BST - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RangeSumOfBST.java)
+[★LeetCode★](https://leetcode.com/problems/range-sum-of-bst/)
+
+[1021. Remove Outermost Parentheses - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RemoveOutermostParentheses.java)
+[★LeetCode★](https://leetcode.com/problems/range-sum-of-bst/)
 
 [1221. Split a String in Balanced Strings - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SplitAStringInBalancedStrings.java)
-[★LeetCode★](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+[★LeetCode★](https://leetcode.com/problems/remove-outermost-parentheses/)
 
 [1266. Minimum Time Visiting All Points - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/MinimumTimeVisitingAllPoints.java)
 [★LeetCode★](https://leetcode.com/problems/minimum-time-visiting-all-points/)
@@ -32,6 +37,9 @@
 
 [1342. Number of Steps to Reduce a Number to Zero - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/NumberOfStepsToReduceANumberToZero.java)
 [★LeetCode★](https://leetcode.com/problems/maximum-69-number/)
+
+[1351. Count Negative Numbers in a Sorted Matrix - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/CountNegativeNumbersInASortedMatrix.java)
+[★LeetCode★](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 
 [1365. How Many Numbers Are Smaller Than the Current Number - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 [★LeetCode★](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
