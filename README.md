@@ -5,6 +5,9 @@
 [7. Reverse Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReverseInteger.java)
 [★LeetCode★](https://leetcode.com/problems/reverse-integer/)
 
+[804. Unique Morse Code Words - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/UniqueMorseCodeWords.java)
+[★LeetCode★](https://leetcode.com/problems/unique-morse-code-words/)
+
 [938. Range Sum of BST - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RangeSumOfBST.java)
 [★LeetCode★](https://leetcode.com/problems/range-sum-of-bst/)
 
