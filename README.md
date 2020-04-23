@@ -32,6 +32,9 @@
 [1299. Replace Elements with Greatest Element on Right Side - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReplaceElementsWithGreatestElementOnRightSide.java)
 [★LeetCode★](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
 
+[1304. Find N Unique Integers Sum up to Zero - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/FindNUniqueIntegersSumUpToZero.java)
+[★LeetCode★](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+
 [1313. Decompress Run-Length Encoded List - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/DecompressRunLengthEncodedList.java)
 [★LeetCode★](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 
