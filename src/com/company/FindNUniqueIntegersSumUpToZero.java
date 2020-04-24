@@ -6,9 +6,7 @@ import java.util.Arrays;
 public class FindNUniqueIntegersSumUpToZero {
 
     public static void main(String[] args) throws Exception {
-
         System.out.println(Arrays.toString(sumZero(6)));
-
     }
 
     public static int[] sumZero(int n) {

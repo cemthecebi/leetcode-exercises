@@ -50,6 +50,9 @@
 [1365. How Many Numbers Are Smaller Than the Current Number - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 [★LeetCode★](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
+[1374. Generate a String With Characters That Have Odd Counts - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/GenerateAStringWithCharactersThatHaveOddCounts.java)
+[★LeetCode★](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
+
 [1389. Create Target Array in the Given Order - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/CreateTargetArrayInTheGivenOrder.java)
 [★LeetCode★](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 
