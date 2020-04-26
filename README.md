@@ -8,6 +8,12 @@
 [804. Unique Morse Code Words - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/UniqueMorseCodeWords.java)
 [★LeetCode★](https://leetcode.com/problems/unique-morse-code-words/)
 
+[832. Flipping an Image - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/FlippingAnImage.java)
+[★LeetCode★](https://leetcode.com/problems/flipping-an-image/)
+
+[905. Sort Array By Parity - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SortArrayByParity.java)
+[★LeetCode★](https://leetcode.com/problems/sort-array-by-parity/)
+
 [938. Range Sum of BST - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RangeSumOfBST.java)
 [★LeetCode★](https://leetcode.com/problems/range-sum-of-bst/)
 
