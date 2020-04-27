@@ -5,6 +5,9 @@
 [7. Reverse Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReverseInteger.java)
 [★LeetCode★](https://leetcode.com/problems/reverse-integer/)
 
+[728. Self Dividing Numbers - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SelfDividingNumbers.java)
+[★LeetCode★](https://leetcode.com/problems/self-dividing-numbers/)
+
 [804. Unique Morse Code Words - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/UniqueMorseCodeWords.java)
 [★LeetCode★](https://leetcode.com/problems/unique-morse-code-words/)
 
