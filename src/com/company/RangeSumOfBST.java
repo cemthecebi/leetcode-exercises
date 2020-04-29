@@ -36,6 +36,4 @@ public class RangeSumOfBST {
         }
         return sum;
     }
-
-
 }

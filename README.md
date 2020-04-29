@@ -5,6 +5,9 @@
 [7. Reverse Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReverseInteger.java)
 [★LeetCode★](https://leetcode.com/problems/reverse-integer/)
 
+[617. Merge Two Binary Trees - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/MergeTwoBinaryTrees.java)
+[★LeetCode★](https://leetcode.com/problems/merge-two-binary-trees/)
+
 [728. Self Dividing Numbers - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SelfDividingNumbers.java)
 [★LeetCode★](https://leetcode.com/problems/self-dividing-numbers/)
 
