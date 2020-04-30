@@ -10,7 +10,6 @@ public class NRepeatedElementInSize2NArray {
     public static void main(String[] args) throws Exception {
         int[] points = {5, 1, 5, 2, 5, 3, 5, 4};
         System.out.println(repeatedNTimes(points));
-
     }
 
     public static int repeatedNTimes(int[] A) {
