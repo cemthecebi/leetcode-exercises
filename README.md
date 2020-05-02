@@ -14,6 +14,9 @@
 [657. Robot Return to Origin - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RobotReturnToOrigin.java)
 [★LeetCode★](https://leetcode.com/problems/robot-return-to-origin/)
 
+[771. Jewels and Stones - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/JewelsAndStones.java)
+[★LeetCode★](https://leetcode.com/problems/jewels-and-stones/)
+
 [728. Self Dividing Numbers - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SelfDividingNumbers.java)
 [★LeetCode★](https://leetcode.com/problems/self-dividing-numbers/)
 
@@ -31,6 +34,9 @@
 
 [961. N-Repeated Element in Size 2N Array - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/NRepeatedElementInSize2NArray.java)
 [★LeetCode★](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+
+[977. Squares of a Sorted Array - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SquaresOfASortedArray.java)
+[★LeetCode★](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 [1021. Remove Outermost Parentheses - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RemoveOutermostParentheses.java)
 [★LeetCode★](https://leetcode.com/problems/range-sum-of-bst/)
