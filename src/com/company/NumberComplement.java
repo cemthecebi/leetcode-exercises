@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class NumberComplement {
 
     public static void main(String[] args) throws Exception {
-        System.out.println();
         System.out.println(findComplement(5));
     }
 
