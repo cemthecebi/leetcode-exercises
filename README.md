@@ -5,6 +5,9 @@
 [7. Reverse Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ReverseInteger.java)
 [★LeetCode★](https://leetcode.com/problems/reverse-integer/)
 
+[169. Majority Element - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/MajorityElement.java)
+[★LeetCode★](https://leetcode.com/problems/majority-element/)
+
 [278. First Bad Version - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/FirstBadVersion.java)
 [★LeetCode★](https://leetcode.com/problems/first-bad-version/)
 
