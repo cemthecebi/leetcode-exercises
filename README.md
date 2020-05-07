@@ -47,6 +47,9 @@
 [977. Squares of a Sorted Array - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SquaresOfASortedArray.java)
 [★LeetCode★](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
+[993. Cousins in Binary Tree - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/CousinsInBinaryTree.java)
+[★LeetCode★](https://leetcode.com/problems/cousins-in-binary-tree/)
+
 [1009. Complement of Base 10 Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/NumberComplement.java)
 [★LeetCode★](https://leetcode.com/problems/complement-of-base-10-integer/)
 
