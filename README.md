@@ -59,6 +59,9 @@
 [1221. Split a String in Balanced Strings - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/SplitAStringInBalancedStrings.java)
 [★LeetCode★](https://leetcode.com/problems/remove-outermost-parentheses/)
 
+[1232. Check If It Is a Straight Line - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/CheckIfItIsAStraightLine.java)
+[★LeetCode★](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+
 [1266. Minimum Time Visiting All Points - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/MinimumTimeVisitingAllPoints.java)
 [★LeetCode★](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 
