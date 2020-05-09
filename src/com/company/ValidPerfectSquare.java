@@ -7,6 +7,23 @@ public class ValidPerfectSquare {
     }
 
     public static boolean isPerfectSquare(int num) {
-        return Math.sqrt(num) % 1 == 0;
+
+        //Math Function
+        //return Math.sqrt(num) % 1 == 0;
+
+        //Custom Made function
+        return squareRoot(num) % 1 == 0;
+    }
+
+    public static double squareRoot(int number) {
+        double temp;
+
+        double sr = number / 2;
+        do {
+            temp = sr;
+            sr = (temp + (number / temp)) / 2;
+        } while ((temp - sr) != 0);
+
+        return sr;
     }
 }
