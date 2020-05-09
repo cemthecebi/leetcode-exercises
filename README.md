@@ -11,6 +11,9 @@
 [278. First Bad Version - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/FirstBadVersion.java)
 [★LeetCode★](https://leetcode.com/problems/first-bad-version/)
 
+[367. Valid Perfect Square - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ValidPerfectSquare.java)
+[★LeetCode★](https://leetcode.com/problems/valid-perfect-square/)
+
 [383. Ransom Note - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RansomNote.java)
 [★LeetCode★](https://leetcode.com/problems/ransom-note/)
 
