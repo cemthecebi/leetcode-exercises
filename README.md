@@ -53,6 +53,9 @@
 [993. Cousins in Binary Tree - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/CousinsInBinaryTree.java)
 [★LeetCode★](https://leetcode.com/problems/cousins-in-binary-tree/)
 
+[997. Find the Town Judge - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/FindTheTownJudge.java)
+[★LeetCode★](https://leetcode.com/problems/find-the-town-judge/)
+
 [1009. Complement of Base 10 Integer - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/NumberComplement.java)
 [★LeetCode★](https://leetcode.com/problems/complement-of-base-10-integer/)
 
