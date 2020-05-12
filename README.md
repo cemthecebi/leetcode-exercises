@@ -47,6 +47,9 @@
 [938. Range Sum of BST - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/RangeSumOfBST.java)
 [★LeetCode★](https://leetcode.com/problems/range-sum-of-bst/)
 
+[942. DI String Match - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/DIStringMatch.java)
+[★LeetCode★](https://leetcode.com/problems/di-string-match/)
+
 [961. N-Repeated Element in Size 2N Array - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/NRepeatedElementInSize2NArray.java)
 [★LeetCode★](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 
