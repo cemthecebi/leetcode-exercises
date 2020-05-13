@@ -8,7 +8,7 @@
 [169. Majority Element - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/MajorityElement.java)
 [★LeetCode★](https://leetcode.com/problems/majority-element/)
 
-[278. First Bad Version - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/FirstBadVersion.java)
+[278. First Bad Version - ](../master/src/com/company/FirstBadVersion.java)
 [★LeetCode★](https://leetcode.com/problems/first-bad-version/)
 
 [367. Valid Perfect Square - ](https://github.com/cemthecebi/leetcode-exercises/blob/master/src/com/company/ValidPerfectSquare.java)
