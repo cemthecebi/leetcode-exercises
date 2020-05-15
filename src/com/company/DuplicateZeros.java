@@ -9,7 +9,6 @@ public class DuplicateZeros {
         duplicateZeros(arr);
     }
 
-
     public static void duplicateZeros(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == 0) {
