@@ -5,6 +5,7 @@
 |**#**|**Title**|**Solution**|
 |---|---|---|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Solution](../master/src/com/company/ReverseInteger.java)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Solution](../master/src/com/company/RemoveDuplicatesFromSortedArray.java)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Solution](../master/src/com/company/RemoveElement.java)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Solution](../master/src/com/company/MergeSortedArray.java)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [Solution](../master/src/com/company/MajorityElement.java)  |
