@@ -42,6 +42,7 @@
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Solution](../master/src/com/company/DecompressRunLengthEncodedList.java)|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Solution](../master/src/com/company/Maximum69Number.java)|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](../master/src/com/company/NumberOfStepsToReduceANumberToZero.java)|
+|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](../master/src/com/company/RemoveElement.java)|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](../master/src/com/company/CountNegativeNumbersInASortedMatrix.java)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](../master/src/com/company/HowManyNumbersAreSmallerThanTheCurrentNumber.java)|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution](../master/src/com/company/IncreasingDecreasingString.java)|

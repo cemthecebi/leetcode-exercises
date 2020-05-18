@@ -1,10 +1,6 @@
 package com.company;
 
-import java.util.Arrays;
-
 public class RemoveElement {
-
-
     public static void main(String[] args) throws Exception {
         int[] arr = {3, 2, 2, 3};
         System.out.println(removeElement(arr, 3));
