@@ -23,6 +23,7 @@
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](../master/src/com/company/FlippingAnImage.java)   |
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](../master/src/com/company/SortArrayByParity.java)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../master/src/com/company/RangeSumOfBST.java)|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/com/company/ValidMountainArray.java)|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[Solution](../master/src/com/company/DIStringMatch.java)|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Solution](../master/src/com/company/NRepeatedElementInSize2NArray.java)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/com/company/SquaresOfASortedArray.java)|
