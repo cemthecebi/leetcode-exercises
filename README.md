@@ -10,6 +10,7 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Solution](../master/src/com/company/MergeSortedArray.java)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [Solution](../master/src/com/company/MajorityElement.java)  |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Solution](../master/src/com/company/FirstBadVersion.java)  |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Solution](../master/src/com/company/MoveZeroes.java)  |
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](../master/src/com/company/ValidPerfectSquare.java)   |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](../master/src/com/company/RansomNote.java)   |
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/src/com/company/FirstUniqueCharacterInAString.java)   |
