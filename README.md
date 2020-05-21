@@ -14,6 +14,7 @@
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](../master/src/com/company/ValidPerfectSquare.java)   |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](../master/src/com/company/RansomNote.java)   |
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/src/com/company/FirstUniqueCharacterInAString.java)   |
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](../master/src/com/company/ThirdMaximumNumber.java)   |
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](../master/src/com/company/MaxConsecutiveOnes.java)   |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](../master/src/com/company/MergeTwoBinaryTrees.java)   |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](../master/src/com/company/RobotReturnToOrigin.java)   |
