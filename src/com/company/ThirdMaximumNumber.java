@@ -7,7 +7,6 @@ public class ThirdMaximumNumber {
         System.out.println(thirdMax(nums));
     }
 
-
     public static int thirdMax(int[] nums) {
         Integer max1 = null;
         Integer max2 = null;

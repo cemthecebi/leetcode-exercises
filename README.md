@@ -49,4 +49,5 @@
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](../master/src/com/company/CountNegativeNumbersInASortedMatrix.java)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](../master/src/com/company/HowManyNumbersAreSmallerThanTheCurrentNumber.java)|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution](../master/src/com/company/IncreasingDecreasingString.java)|
+|1380|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Solution](../master/src/com/company/LuckyNumbersInAMatrix.java)|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Solution](../master/src/com/company/CreateTargetArrayInTheGivenOrder.java)   |
